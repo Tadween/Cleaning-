@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://stately-malabi-45863f.netlify.app/sitemap.xml
